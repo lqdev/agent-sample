@@ -3,6 +3,8 @@ from typing import Callable
 
 from autogen_core import DefaultTopicId, MessageContext, RoutedAgent, default_subscription, message_handler
 
+from protos.messages_pb2 import NewMessageReceived, Output
+
 @dataclass
 class MyMessage:
     content: str

@@ -16,6 +16,16 @@ Using AutoGen Distrubuted Runtime with Python and .NET
 - [uv](https://docs.astral.sh/uv/#installation)
 - [Visual Studio Code (optional)](https://code.visualstudio.com/download)
 
+## To-Do
+
+- [ ] Update Python agent
+- [ ] Update .NET Agent
+- [ ] Get Python and .NET to communicate
+- [ ] Configure OTEL in Python
+- [ ] Deploy full solution
+- [ ] Create agent with Azure AI Agents
+- [ ] Add MCP Server / Client
+
 ## General steps to start from scratch
 
 1. Create .NET and Python projects
